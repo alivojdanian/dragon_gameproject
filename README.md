@@ -1,4 +1,3 @@
-# dragon_gameproject
- Final Project for Basics of Game Development
- 
- This is Group 5 final project. 
+# Dragon Game Project
+
+This is group 5 final project for basics of game development
